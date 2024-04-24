@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.inputbox input{
+  height:40px;
+  width:300px;
+  border-radius:15px;
+  margin: 0 10px 0 0;
+  text-align:center;
+}
+.inputbox{
+  margin-top: 5%;
+}
+
